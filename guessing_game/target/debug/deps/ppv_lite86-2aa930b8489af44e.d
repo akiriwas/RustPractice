@@ -1,0 +1,11 @@
+/home/akiriwas/Projects/RustPractice/guessing_game/target/debug/deps/libppv_lite86-2aa930b8489af44e.rmeta: /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/akiriwas/Projects/RustPractice/guessing_game/target/debug/deps/libppv_lite86-2aa930b8489af44e.rlib: /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/akiriwas/Projects/RustPractice/guessing_game/target/debug/deps/ppv_lite86-2aa930b8489af44e.d: /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs:
+/home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs:
+/home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs:
+/home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs:
+/home/akiriwas/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs:
