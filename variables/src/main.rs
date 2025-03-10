@@ -38,6 +38,83 @@ fn main() {
     another_function(22);
     print_labeled_measurement(5, 'h');
 
+    //Expression blocks
+    let y = {
+        let x = 3;
+        x + 1
+    };
+
+    println!("Function returns {}", ret_function());
+    
+    println!("plus_one returns {}", plus_one(41));
+
+    let number = 3;
+    if number < 5 {
+        println!("Number is less than 5");
+    } else {
+        println!("Number is greater than or equal to 5");
+    }
+
+    let condition1 = false;
+    let condition2 = false;
+    let number = if condition1 { 5 } else { if condition2 { 6 } else { 7 }  };
+
+    println!("cond1 = {}, cond2 = {}, number = {}", condition1, condition2, number);
+
+    // Loop Labels
+
+    let mut count = 0;  // Loop counter
+    'counting_up: loop {
+        println!("count = {count}");
+        let mut remaining = 10;
+
+        loop {
+            println!("remaining = {remaining}");
+            if remaining == 9 {
+                break;
+            }
+            if count == 2 {
+                break 'counting_up;
+            }
+            remaining -= 1;
+        }
+
+        count += 1;
+    }
+    println!("Ending count = {count}");
+
+    let mut number = 3;
+
+    while number != 0 {
+        println!("number = {number}");
+        number -= 1;
+    }
+
+    let a = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+    let mut index = 0;
+
+    while index < 10 {
+        println!("The value of index {index} is {}", a[index]);
+        index += 1;
+    }
+
+    for element in a {
+        println!("The value of element is: {element}");
+    }
+
+    for number in (1..100) {
+        println!("Simple for loop iterator: {number}");
+    }
+
+}
+
+fn ret_function() -> i32 {
+    //This is equivalent to "return 42;"
+    42
+}
+
+fn plus_one(x: i32) -> i32 {
+    return x+1;
 }
 
 fn print_labeled_measurement(value: i32, unit_label: char) {
